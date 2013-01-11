@@ -1,0 +1,8 @@
+# OS files
+.?*
+!.gitignore
+
+# Generated file
+target/
+log/
+
